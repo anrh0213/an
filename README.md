@@ -1,2 +1,3 @@
 # an
-git commint -m "A"
+git commit -m "First commit"
+
